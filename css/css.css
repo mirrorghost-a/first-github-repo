@@ -1,30 +1,44 @@
 *{
-    background-image: url("images/falling-drop-rain-blue-earth-image-water-splash-crown-shape-water-splash-crown-shape-falling-drop-earth-140453719.webp");
-    background-repeat: repeat-y;
+    text-align: justify;
+}
+#background{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
-li{
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 8vw ;
     color: blueviolet;
-    background-color: rgba(0, 255, 255, 0.219);
-    border: 5px rgba(255, 0, 0, 0.582) solid;
-    margin: 10px;
-    padding: 4px;
-    height: 100px;
-    width: 90%;
-    
-}
-.box{
-    background-color: blue;
-    border: 2px black solid;
-    height: 100px;
-    width: 80%;
-    box-shadow: 5px 5px 80px green, 5px -5px 8px red, 5px 5px 8px yellow, -5px -5px 8px blue;
-    margin: 30px;
-}
-h2{
     text-align: center;
+    text-decoration: underline;
 }
-/* #header_image{ */
-    /* height: 700px; */
-    
-/* } */
+#page{
+    border: 2px solid black;
+    border-radius: 1%;
+    box-shadow: -2px 0px 5px red, 0px -2px 5px blue, 2px 0px 5px greenyellow, 0px 2px 5px rgb(252, 236, 16);
+    padding: 5px;
+    background-color: rgba(243, 150, 235, 0.856);
+}
+#readmore{
+    border: none;
+    background-color: #ffffff00;
+    color: blue;
+
+}
+#thelast{
+    background-image: url(3bd3fa750057701de637d3f630130b9b.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0;
+}
+#last{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 10vw;
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+    background-color: rgba(127, 255, 212, 0.199);
+    height: 100vw;
+}
