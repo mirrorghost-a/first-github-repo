@@ -1,0 +1,30 @@
+*{
+    background-image: url("images/falling-drop-rain-blue-earth-image-water-splash-crown-shape-water-splash-crown-shape-falling-drop-earth-140453719.webp");
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+li{
+    color: blueviolet;
+    background-color: rgba(0, 255, 255, 0.219);
+    border: 5px rgba(255, 0, 0, 0.582) solid;
+    margin: 10px;
+    padding: 4px;
+    height: 100px;
+    width: 90%;
+    
+}
+.box{
+    background-color: blue;
+    border: 2px black solid;
+    height: 100px;
+    width: 80%;
+    box-shadow: 5px 5px 80px green, 5px -5px 8px red, 5px 5px 8px yellow, -5px -5px 8px blue;
+    margin: 30px;
+}
+h2{
+    text-align: center;
+}
+/* #header_image{ */
+    /* height: 700px; */
+    
+/* } */
